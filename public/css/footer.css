@@ -1,0 +1,35 @@
+/* Footer*/
+
+footer{
+    color: var(--color-grisOscuro);
+    text-align: center;
+    background-color: white;
+}
+
+footer h4{
+    margin-bottom: 0px;
+}
+footer p{
+    margin-top: 0px;
+}
+footer section{
+    margin: 40px;
+}
+
+.fa-credit-card{
+    color: var(--color-celeste);
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.fa-gift{
+    color: var(--color-celeste);
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.fa-user-shield{
+    color: var(--color-celeste);
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+    
